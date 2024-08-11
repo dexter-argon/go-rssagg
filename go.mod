@@ -1,4 +1,4 @@
-module github.com/dexter-argon/rssagg
+module github.com/dexter-argon/go-rssagg
 
 go 1.22.3
 
